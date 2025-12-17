@@ -15,7 +15,10 @@ No necesitas instalar nada en tu computadora. Diseñamos este curso bajo la filo
 ## 📚 Tabla de Contenidos
 
 ### 🧬 Unidad 1: Fundamentos y Vectorización
-*(Material de la clase anterior)*
+Aquí establecemos las bases del "Python Profesional". Nos enfocamos en entender la memoria, la velocidad y la manipulación segura de datos.
+*   **Cápsula 1:** Estructuras de Datos (La trampa de la Mutabilidad).
+*   **Cápsula 2:** Vectorización (NumPy vs Bucles: La carrera de velocidad).
+*   **Cápsula 3:** Data Wrangling (Pandas, `.loc` y limpieza robusta).
 
 ### 🚀 Unidad 2: Paradigmas Avanzados (Funcional, POO, Declarativo)
 En esta unidad dejamos de escribir "scripts" y empezamos a escribir **Arquitectura de Software**.
