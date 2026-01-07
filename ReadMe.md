@@ -26,6 +26,12 @@ En esta unidad dejamos de escribir "scripts" y empezamos a escribir **Arquitectu
 *   **Cápsula 2:** Optimización (Generadores y Decoradores).
 *   **Cápsula 3:** POO aplicada a Modelos de IA.
 *   **Cápsula 4:** Paradigma Declarativo (SQL & Pandas Chaining).
-
+*   
+### 🛠️ Unidad 3: Aplicaciones Prácticas y MLOps
+Aquí convertimos el código en producto. Aprendemos a construir sistemas robustos, testeables y colaborativos.
+*   **Cápsula 1:** Pipelines de ML (Automatización y cero Data Leakage).
+*   **Cápsula 2:** MLflow (Adiós al Excel para anotar resultados).
+*   **Cápsula 3:** Testing (Pytest y código a prueba de balas).
+*   **Cápsula 4:** Git Flow (Simulación de trabajo en equipo).
 ---
 *Repositorio mantenido para el ciclo C2025 P2.*
